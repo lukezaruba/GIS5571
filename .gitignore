@@ -1,3 +1,13 @@
 
 *.las
 *.nc
+*.tif
+*.gdbtable
+*.gdb
+*.gdbindexes
+*.atx
+*.freelist
+*.spx
+*.horizon
+*.atbx
+

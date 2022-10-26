@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20221023</CreaDate><CreaTime>13453000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\3D Analyst Tools.tbx\LasDatasetToTin" Date="20221023" Time="134530">LasDatasetToTin C:\gitFiles\GIS5571\Lab2\data\aitkin\1942-32-08.lasd C:\gitFiles\GIS5571\Lab2\data\aitkin\1942-32-08_TIN "Window Size" "Minimum Z" 15 5000000 1 CLIP</Process></lineage></DataProperties></Esri></metadata>
