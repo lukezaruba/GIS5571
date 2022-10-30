@@ -1,0 +1,61 @@
+{
+  "origin" : {
+    "x" : 564958.63,
+    "y" : 4889681.58090047445,
+    "spatialReference" : {
+      "wkid" : 26915,
+      "latestWkid" : 26915
+    }
+  },
+  "extent" : {
+    "xmin" : 564958.63,
+    "ymin" : 4875662.12000000011,
+    "xmax" : 577613.63,
+    "ymax" : 4889681.58090047445,
+    "spatialReference" : {
+      "wkid" : 26915,
+      "latestWkid" : 26915
+    }
+  },
+  "geodataXform" : {
+    "spatialReference" : {
+      "wkid" : 26915,
+      "latestWkid" : 26915
+    },
+    "type" : "IdentityXform"
+  },
+  "LODInfos" : {
+    "resolutions" : [
+      59.976303317535546,
+      29.988151658767773,
+      14.994075829383887
+    ],
+    "levels" : [
+      0,
+      1,
+      2
+    ],
+    "scales" : [
+      226681.63791469194,
+      113340.81895734597,
+      56670.409478672984
+    ],
+    "dpi" : 96,
+    "type" : "RasterLODInfos"
+  },
+  "blockWidth" : 256,
+  "blockHeight" : 256,
+  "bandCount" : 1,
+  "pixelType" : 1,
+  "pixelSizeX" : 14.994075829383887,
+  "pixelSizeY" : 14.99407582938432,
+  "format" : "Cache/LERC2D",
+  "compressionType" : "LERC",
+  "firstPyramidLevel" : 1,
+  "maximumPyramidLevel" : 2,
+  "packetSize" : 8,
+  "compressionQuality" : 100000,
+  "pyramidResamplingType" : 0,
+  "LERCError" : 0.10000000000000001,
+  "type" : "RasterInfo"
+}
