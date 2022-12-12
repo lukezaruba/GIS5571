@@ -29,7 +29,7 @@ class GooglePlacesAPI:
         # Getting request
         response = requests.get("https://maps.googleapis.com/maps/api/place/nearbysearch/json", params=payload)
 
-        # Note: Not an actual JSON - can keep to use Python list/dist methods for parsing
+        # Note: Not an actual JSON - can keep to use Python list/dict methods for parsing
         json_response = response.json()
 
         return json_response["results"]
@@ -41,7 +41,7 @@ class GooglePlacesAPI:
         payload = {"location": location, "radius": str(radius), "keyword": keyword, "key": self.api_key}
 
         # Getting request
-        response = requests.request("GET", "https://maps.googleapis.com/maps/api/place/nearbysearch/json", params=payload)
+        response = requests.get("https://maps.googleapis.com/maps/api/place/nearbysearch/json", params=payload)
 
         # Note: Not an actual JSON - can keep to use Python list/dist methods for parsing
         json_response = response.json()
